@@ -8,6 +8,11 @@ The goal is to compare models based on their ability to predict **24-hour ahead 
 
 ---
 
+##Note
+
+Both models in the model folder are a sequence they represent single model 
+---
+
 ##  Objectives
 
 * Build a **temperature forecasting pipeline** using ERA5 data
