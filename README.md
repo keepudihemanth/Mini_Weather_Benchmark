@@ -1,4 +1,4 @@
-# 🌦️ Mini WeatherBench: Temperature Forecast Benchmark using ERA5
+# 🌦️ Mini WeatherBench: Temperature Forecast Benchmark using ERA5(Small Scale project)
 
 ##  Overview
 
@@ -7,7 +7,6 @@ This project implements a **WeatherBench-inspired benchmarking framework** for t
 The goal is to compare models based on their ability to predict **24-hour ahead temperature** and analyze how **dataset size affects model performance and generalization**.
 
 ---
-
 ## Note
 
 Both models in the model folder are a sequence they represent single model 
