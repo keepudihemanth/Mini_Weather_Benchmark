@@ -11,6 +11,11 @@ The goal is to compare models based on their ability to predict **24-hour ahead 
 
 Both models in the model folder are a sequence they represent single model 
 ---
+## Updates
+
+checked with recent data of 2 months temperature and saved model along with identifying the best model
+
+---
 
 ##  Objectives
 
